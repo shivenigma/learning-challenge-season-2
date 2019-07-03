@@ -12,3 +12,14 @@
 3) Python lists - accessing using index, append function of a list
 4) Python lists - assigning bulk values, clearing list using the range like 2:5
 5) Python lists - Nested lists 
+
+
+## Day 3
+1) Python while loop
+2) Python for loop
+3) Differences in python for loop
+4) range() function
+5) print function accepts multiple arguments
+6) Else for loops (interesting)
+7) Break and continue for looping statements
+8) Pass statement which actually does nothing but a placeholder
