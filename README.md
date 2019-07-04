@@ -23,3 +23,10 @@
 6) Else for loops (interesting)
 7) Break and continue for looping statements
 8) Pass statement which actually does nothing but a placeholder
+
+## Day4
+1) Flask installation
+2) Flask dev server
+3) Flask routing
+4) Flask hello world app
+5) PIP package manager
