@@ -30,3 +30,13 @@
 3) Flask routing
 4) Flask hello world app
 5) PIP package manager
+
+## Day 5
+1) Web scraping basics
+2) parsing DOM elements
+3) Creating images dynamically
+4) Getting the system screen size using packages
+5) created a wallpaper generated application which generates wallpapers based on quotes from movies from IMDB using web scraping
+PS: the wallpapers are gross as of now.
+
+
